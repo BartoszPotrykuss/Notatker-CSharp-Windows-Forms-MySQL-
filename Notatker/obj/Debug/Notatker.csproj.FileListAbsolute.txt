@@ -1,0 +1,37 @@
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\bin\Debug\Notatker.exe.config
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\bin\Debug\Notatker.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\bin\Debug\Notatker.pdb
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\obj\Debug\Notatker.csproj.AssemblyReference.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\obj\Debug\Notatker.csproj.SuggestedBindingRedirects.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\obj\Debug\Notatker.Form1.resources
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\obj\Debug\Notatker.Properties.Resources.resources
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\obj\Debug\Notatker.csproj.GenerateResource.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\obj\Debug\Notatker.csproj.CoreCompileInputs.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\obj\Debug\Notatker.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\obj\Debug\Notatker.pdb
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\obj\Debug\Notatker.Form2.resources
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\bin\Debug\MySql.Data.dll
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\bin\Debug\System.Memory.dll
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\bin\Debug\System.Buffers.dll
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\bin\Debug\MySql.Data.xml
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\Notatker\Notatker\obj\Debug\Notatker.csproj.CopyComplete
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\bin\Debug\Notatker.exe.config
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\bin\Debug\Notatker.exe
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\bin\Debug\Notatker.pdb
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\bin\Debug\MySql.Data.dll
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\bin\Debug\System.Memory.dll
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\bin\Debug\System.Buffers.dll
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\bin\Debug\MySql.Data.xml
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\obj\Debug\Notatker.csproj.AssemblyReference.cache
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\obj\Debug\Notatker.Form1.resources
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\obj\Debug\Notatker.Form2.resources
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\obj\Debug\Notatker.Properties.Resources.resources
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\obj\Debug\Notatker.csproj.GenerateResource.cache
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\obj\Debug\Notatker.csproj.CoreCompileInputs.cache
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\obj\Debug\Notatker.csproj.CopyComplete
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\obj\Debug\Notatker.exe
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Własne projekty\WORK IN PROGRESS (C#, Windows Forms, SQL) Notatker\Notatker\obj\Debug\Notatker.pdb
